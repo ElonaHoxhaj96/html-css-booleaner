@@ -57,3 +57,19 @@ thead{
 .row3{
     background-color:  rgba(65, 225, 253, 0.39);
 }
+
+/*definizione footer*/ 
+footer h3{
+    color: gray;
+}
+
+.img-monitor span {
+    color: black;
+    font-size: 25px;
+    text-align: left;
+}
+.img-graph span {
+    color: black;
+    font-size: 25px;
+    text-align: left;
+}
