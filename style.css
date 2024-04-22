@@ -29,4 +29,31 @@ header p span{
     font-size: 11px;
  }
 
+/*quarta section of main*/ 
 
+/*tabella definizione thead*/ 
+thead{
+  background-color: rgb(17, 197, 241);
+  color: white;
+  text-align: left;
+}
+
+/*tabella definizione tbody*/ 
+.terza-colonna{
+    text-align: left;
+    width: 65%;
+
+}
+
+.row1{
+    background-color:  rgba(65, 225, 253, 0.39);
+   
+}
+.row2{
+    background-color: rgb(245, 245, 245);
+    
+}
+
+.row3{
+    background-color:  rgba(65, 225, 253, 0.39);
+}
