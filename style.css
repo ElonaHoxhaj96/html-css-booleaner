@@ -14,7 +14,7 @@ h1{
     font-size: 46px;
     margin: auto;
 }
-p{
+header p{
     color: gray;
     margin-top: 0;
 }
@@ -22,3 +22,8 @@ p{
 p span{
     color: rgb(5, 180, 233)
 }
+
+/*first section of main*/
+ .first-section p{
+    margin: auto;
+ }
