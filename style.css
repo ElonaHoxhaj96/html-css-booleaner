@@ -19,11 +19,14 @@ header p{
     margin-top: 0;
 }
 
-p span{
-    color: rgb(5, 180, 233)
+header p span{
+    color: rgb(5, 180, 233);
 }
 
-/*first section of main*/
+/*first section of main*/ 
  .first-section p{
     margin: auto;
+    font-size: 11px;
  }
+
+
