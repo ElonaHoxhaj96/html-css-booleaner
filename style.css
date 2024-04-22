@@ -1,0 +1,24 @@
+/*header*/
+#logo{
+    width: 200px;
+    height: 150px;
+}
+
+#intestazione{
+    background-image: url(img/pattern.png);
+    background-color: rgb(33, 144, 235);
+    background-size: 42%;
+}
+
+h1{
+    font-size: 46px;
+    margin: auto;
+}
+p{
+    color: gray;
+    margin-top: 0;
+}
+
+p span{
+    color: rgb(5, 180, 233)
+}
